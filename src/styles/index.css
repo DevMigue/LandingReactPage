@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container {
+    background-color: rgb(234, 236, 239);
+}
+
+html, body {
+    height: 100%;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+.app-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+.footer {
+    margin-top: auto;
+  }

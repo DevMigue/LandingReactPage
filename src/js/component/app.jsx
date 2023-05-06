@@ -46,10 +46,10 @@ const Cards = () => {
 <div className="row flex-wrap mx-lg-5 mx-md-3 mx-1 py-5 flex-grow-1">
 <div className="col-md-3 col-sm-6">
   <div className="card">
-    <img src="..." class="card-img-top" alt="..."/>
+    <img src="..." className="card-img-top" alt="..."/>
     <div className="card-body text-center">
-    <h5 class="card-title">Card title</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 className="card-title">Card title</h5>
+      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
       <a href="#" className="btn btn-primary">Go somewhere</a>
     </div>
   </div>
@@ -57,30 +57,30 @@ const Cards = () => {
 <div className="col-md-3 col-sm-6">
   <div className="card">
   <img src="..." class="card-img-top" alt="..."/>
-<div class="card-body text-center">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+<div className="card-body text-center">
+  <h5 className="card-title">Card title</h5>
+  <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <a href="#" className="btn btn-primary">Go somewhere</a>
+</div>
+  </div>
+</div>
+<div className="col-md-3 col-sm-6">
+  <div className="card">
+  <img src="..." className="card-img-top" alt="..."/>
+<div className="card-body text-center">
+  <h5 className="card-title">Card title</h5>
+  <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <a href="#" className="btn btn-primary">Go somewhere</a>
 </div>
   </div>
 </div>
 <div className="col-md-3 col-sm-6">
   <div className="card">
   <img src="..." class="card-img-top" alt="..."/>
-<div class="card-body text-center">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
-</div>
-  </div>
-</div>
-<div className="col-md-3 col-sm-6">
-  <div className="card">
-  <img src="..." class="card-img-top" alt="..."/>
-<div class="card-body text-center">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  <a href="#" class="btn btn-primary ">Go somewhere</a>
+<div className="card-body text-center">
+  <h5 className="card-title">Card title</h5>
+  <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <a href="#" className="btn btn-primary ">Go somewhere</a>
 </div>
   </div>
 </div>
